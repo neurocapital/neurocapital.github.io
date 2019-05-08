@@ -16,7 +16,7 @@
 title: Neuro Notes
 description: The Neuro notebooks
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://neurocapital.github.io" # the base hostname & protocol for your site
 baseurl: ""
 github_repo:  # the GitHub repo name for your project
 github_username: 
